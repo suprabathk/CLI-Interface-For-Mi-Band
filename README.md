@@ -15,7 +15,7 @@ Please report any bugs.
 
 ### Install dependencies
 
-`pip install -r requirements.txt`
+`sudo pip install -r requirements.txt`
 
 Turn on your Bluetooth
 
