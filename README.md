@@ -1,5 +1,5 @@
-# MiBand3
-Library to work with Xiaomi MiBand 3
+# Mi Band 3
+Library to work with Xiaomi Mi Band 3
 
 Library based on Yojesh Ojha's library:-
 https://github.com/yogeshojha/MiBand3
@@ -13,9 +13,7 @@ https://medium.com/@yogeshojha/i-hacked-xiaomi-miband-3-and-here-is-how-i-did-it
 
 Turn on your Bluetooth
 
-Unpair you MiBand2 from current mobile apps
-
-Find out your MiBand3 MAC address
+Find out your Mi Band 3 MAC address
 
 ```sudo hcitool lescan```
 
