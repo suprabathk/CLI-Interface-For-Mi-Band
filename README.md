@@ -5,6 +5,12 @@ Library based on Yojesh Ojha's library:-
 https://github.com/yogeshojha/MiBand3
 https://medium.com/@yogeshojha/i-hacked-xiaomi-miband-3-and-here-is-how-i-did-it-43d68c272391
 
+Yojesh Ojha's library is amazing. But there are quite a few bugs and the libraries are out-dated.
+So, I fixed the bugs and made some minor changes.
+
+The Heart rate feature seems to glitchy even after some fixes. (I am working on it!)
+Please report any bugs.
+
 # Run
 
 ### Install dependencies
