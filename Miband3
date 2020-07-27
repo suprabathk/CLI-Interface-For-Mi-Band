@@ -1,9 +1,0 @@
-#!/usr/bin/python
-
-# -*- coding: utf-8 -*-
-
-import sys
-
-sys.path.append('/home/pi/Desktop/MiBand3')
-
-execfile('/home/pi/Desktop/MiBand3/main.py')

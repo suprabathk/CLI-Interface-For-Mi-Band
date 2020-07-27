@@ -12,6 +12,5 @@ band.setSecurityLevel(level = "medium")
 
 if band.initialize():
     print("Initialized...")
-    
 else:
     band.authenticate()

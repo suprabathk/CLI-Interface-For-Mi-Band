@@ -4,7 +4,7 @@ crc = 0xFFFF
 filename = "Mili_wuhan.res"
 extension = os.path.splitext(filename)[1][1:]
 print(hex(os.path.getsize(filename)))
-print extension
+print(extension)
 with open(filename) as f:
       while True:
         c = f.read(1) #takes 20 bytes :D
